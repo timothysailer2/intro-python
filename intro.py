@@ -7,7 +7,7 @@ print(True)#bool(True or False)
 
 #variables and concantination
 name = "Tim" #string
-age = 23 #int
+age = 42 #int
 last_name = "Sailer"
 found = False
 #concatination 
